@@ -1,0 +1,10 @@
+# 项目1 - 亚马逊畅销榜选品数据分析
+# HTML 本地解析(beautifulsoup4 + lxml) + 清洗分析(pandas/numpy/matplotlib)
+# selenium/webdriver-manager 仅供旧版实时抓取脚本使用
+beautifulsoup4>=4.12
+lxml>=5.0
+pandas>=2.0
+numpy>=1.24
+selenium>=4.15
+webdriver-manager>=4.0
+matplotlib>=3.7

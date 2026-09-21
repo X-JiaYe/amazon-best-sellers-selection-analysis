@@ -1,0 +1,15 @@
+# 运行产物：抓取与分析的输入/输出数据不上传
+data/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 本地配置与密钥
+.env
+
+# 系统 / 编辑器
+.DS_Store
